@@ -1,4 +1,5 @@
 ---
+author: Someone Else
 title: Wildcrafting in the city - ethics and responsibility
 description: This is a post about wildcrafting in the city
 date: 2023-11-18
