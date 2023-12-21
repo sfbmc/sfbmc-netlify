@@ -1,17 +1,10 @@
 ---
-title: This is my second post with a much longer title.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Thoughs on herbal medicine
+description: This is a post on the complicated nature of herbal medicine
+date: 2023-12-19
 tags:
-  - number 2
+  - herbal medicine
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+See our [clinic FAQ](/blog/firstpost/) for more information on our clinic.
 
-## Section Header
-
-<a href="/blog/firstpost/">First post</a>
-<a href="/blog/thirdpost/">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+We are a group of herbalists who are passionate about herbal medicine. We are dedicated to the craft of potent medicine. We are committed to the highest standards of quality and purity. We are committed to the highest standards of safety and efficacy. We are committed to the highest standards of sustainability and environmental stewardship. We are committed to the highest standards of ethical sourcing and fair trade. We are committed to the highest standards of transparency and accountability. We are committed to the highest standards of integrity and honesty.
